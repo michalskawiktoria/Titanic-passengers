@@ -1,2 +1,2 @@
 # Titanic-passengers
-Analysis of the passengers of the Titanic
+What is included in the analysis
