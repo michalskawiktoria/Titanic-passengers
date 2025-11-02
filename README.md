@@ -1,2 +1,2 @@
 # Titanic-passengers
-What is included in the analysis
+🚢 An analysis of the titanic passengers. Includes dataset, tables...
